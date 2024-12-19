@@ -1,4 +1,4 @@
-# XINYA SHAN - LABN ONE 
+# XINYA SHAN - LAB ONE 
 Lab one: My live website 
 
 <html lang="en">
@@ -47,7 +47,7 @@ Lab one: My live website
     <h1>About Me</h1>
   </header>
   <main>
-    <p>Hello! I'm passionate about exploring new horizons and embracing adventures. I love to travel, try new cuisines, and immerse myself in diverse cultures. My adventurous spirit keeps me motivated to seek unique experiences and challenges.</p>
+    <p> Hello! I'm passionate about exploring new horizons and embracing adventures. I love to travel, try new cuisines, and immerse myself in diverse cultures. My adventurous spirit keeps me motivated to seek unique experiences and challenges.</p>
     <p>My journey in tech began in 2019 when I landed my first job as a Software Developer Intern. It was an incredible experience that set the foundation for my career in technology and innovation.</p>
   </main>
   <footer>
