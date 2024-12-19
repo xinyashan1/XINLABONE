@@ -1,4 +1,3 @@
-# XINYA SHAN - LAB ONE 
 Lab one: My live website 
 
 <html lang="en">
