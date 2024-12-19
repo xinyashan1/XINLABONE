@@ -1,6 +1,6 @@
-# XINLABONE
+# XINYA SHAN - LABN ONE 
 Lab one: My live website 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
